@@ -14,7 +14,7 @@ I'm **Royyala Sindhuja**, a Computer Science Engineering student **(B.Tech, 2023
 - 🌱 &nbsp;Learning **Advanced ML & DSA**
 - 💡 &nbsp;Interested in **Full Stack Dev, AI, and Open Source**
 - 🤝 &nbsp;Open to **collaborations, internships & opportunities**
-- ⚡ &nbsp;Fun Fact: I debug code better after a cup of coffee ☕
+
 
 ---
 
@@ -53,12 +53,13 @@ I'm **Royyala Sindhuja**, a Computer Science Engineering student **(B.Tech, 2023
 
 | 🎖️ Certificate | 🏢 Issuer | 📅 Date |
 |---|---|---|
+| Certified Implementation Specialist – Data Foundations (CMDB & CSDM) | ServiceNow | Jun 2026 |
 | Salesforce Certified Agentforce Specialist | Salesforce | Dec 2025 |
 | Introduction to Generative AI | IBM SkillsBuild | Aug 2025 |
 | ServiceNow Virtual Internship Program | ServiceNow | Nov 2025 |
 | GenAI Hackathon Participation Certificate | FutureSkills Prime & NASSCOM | Dec 2025 |
 | Mission Upskill India: AI Impact Summit 2026 | HCL GUVI | Dec 2025 |
-| Certified Implementation Specialist – Data Foundations (CMDB & CSDM) | ServiceNow | Jun 2026 |
+
 
 ---
 
