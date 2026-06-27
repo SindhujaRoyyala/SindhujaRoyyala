@@ -1,10 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Hi+there%2C+I'm+Sindhu+%F0%9F%91%8B;Software+Developer+%7C+AI+Enthusiast;Full+Stack+%7C+Backend+%7C+ML+Explorer;Building+tomorrow%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=SindhujaRoyyala&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/SindhujaRoyyala"><img src="https://img.shields.io/github/followers/SindhujaRoyyala?label=Followers&style=flat-square&color=7C3AED&labelColor=1a1a2e" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Hi+there%2C+I'm+Sindhuja+%F0%9F%91%8B;Software+Developer+%7C+AI+Enthusiast;Full+Stack+%7C+Backend+%7C+ML+Explorer;Building+tomorrow%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +8,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
-I'm **Royyala Sindhu**, a passionate Computer Science Engineering student **(B.Tech, 2023–2027)** with a deep interest in building intelligent, scalable, and impactful software.
+I'm **Royyala Sindhuja**, a passionate Computer Science Engineering student **(B.Tech, 2023–2027)** with a deep interest in building intelligent, scalable, and impactful software.
 
 I love turning complex problems into clean, elegant solutions — whether it's crafting robust backend systems, building full-stack web apps, or experimenting with AI and machine learning models.
 
@@ -97,7 +91,7 @@ I love turning complex problems into clean, elegant solutions — whether it's c
 
 <div align="center">
 
-[![Sindhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SindhujaRoyyala&theme=tokyo-night&hide_border=true&color=7C3AED&line=7C3AED&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sindhuja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SindhujaRoyyala&theme=tokyo-night&hide_border=true&color=7C3AED&line=7C3AED&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
