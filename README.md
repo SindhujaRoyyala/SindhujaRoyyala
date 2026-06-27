@@ -14,6 +14,7 @@ I'm **Royyala Sindhuja**, a Computer Science Engineering student **(B.Tech, 2023
 - 🌱 &nbsp;Learning **Advanced ML & DSA**
 - 💡 &nbsp;Interested in **Full Stack Dev, AI, and Open Source**
 - 🤝 &nbsp;Open to **collaborations, internships & opportunities**
+- ⚡ &nbsp;Fun Fact: I debug code better after a cup of coffee ☕
 
 ---
 
@@ -52,36 +53,12 @@ I'm **Royyala Sindhuja**, a Computer Science Engineering student **(B.Tech, 2023
 
 | 🎖️ Certificate | 🏢 Issuer | 📅 Date |
 |---|---|---|
-| Certified Implementation Specialist – Data Foundations (CMDB & CSDM) | ServiceNow | Jun 2026 |
 | Salesforce Certified Agentforce Specialist | Salesforce | Dec 2025 |
 | Introduction to Generative AI | IBM SkillsBuild | Aug 2025 |
 | ServiceNow Virtual Internship Program | ServiceNow | Nov 2025 |
 | GenAI Hackathon Participation Certificate | FutureSkills Prime & NASSCOM | Dec 2025 |
 | Mission Upskill India: AI Impact Summit 2026 | HCL GUVI | Dec 2025 |
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SindhujaRoyyala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7C3AED&icon_color=7C3AED" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SindhujaRoyyala&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SindhujaRoyyala&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&langs_count=8" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Sindhuja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SindhujaRoyyala&theme=tokyo-night&hide_border=true&color=7C3AED&line=7C3AED&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+| Certified Implementation Specialist – Data Foundations (CMDB & CSDM) | ServiceNow | Jun 2026 |
 
 ---
 
