@@ -8,16 +8,12 @@
 
 ## 🧠 About Me
 
-I'm **Royyala Sindhuja**, a passionate Computer Science Engineering student **(B.Tech, 2023–2027)** with a deep interest in building intelligent, scalable, and impactful software.
-
-I love turning complex problems into clean, elegant solutions — whether it's crafting robust backend systems, building full-stack web apps, or experimenting with AI and machine learning models.
+I'm **Royyala Sindhuja**, a Computer Science Engineering student **(B.Tech, 2023–2027)** passionate about building intelligent and impactful software.
 
 - 🎓 &nbsp;Pursuing **B.Tech in CSE** (2023–2027)
-- 🔭 &nbsp;Currently exploring **AI/ML, Backend Systems & Cloud**
-- 🌱 &nbsp;Learning **Advanced ML, System Design & DSA**
+- 🌱 &nbsp;Learning **Advanced ML & DSA**
 - 💡 &nbsp;Interested in **Full Stack Dev, AI, and Open Source**
 - 🤝 &nbsp;Open to **collaborations, internships & opportunities**
-- ⚡ &nbsp;Fun Fact: I debug code better after a cup of coffee ☕
 
 ---
 
@@ -56,11 +52,13 @@ I love turning complex problems into clean, elegant solutions — whether it's c
 
 | 🎖️ Certificate | 🏢 Issuer | 📅 Date |
 |---|---|---|
+| Certified Implementation Specialist – Data Foundations (CMDB & CSDM) | ServiceNow | Jun 2026 |
 | Salesforce Certified Agentforce Specialist | Salesforce | Dec 2025 |
 | Introduction to Generative AI | IBM SkillsBuild | Aug 2025 |
 | ServiceNow Virtual Internship Program | ServiceNow | Nov 2025 |
 | GenAI Hackathon Participation Certificate | FutureSkills Prime & NASSCOM | Dec 2025 |
 | Mission Upskill India: AI Impact Summit 2026 | HCL GUVI | Dec 2025 |
+
 
 ---
 
@@ -72,16 +70,6 @@ I love turning complex problems into clean, elegant solutions — whether it's c
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SindhujaRoyyala&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SindhujaRoyyala&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SindhujaRoyyala&theme=onestar&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
