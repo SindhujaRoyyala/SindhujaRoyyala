@@ -8,7 +8,9 @@
 
 ## 🧠 About Me
 
-I'm **Royyala Sindhuja**, a Computer Science Engineering student **(B.Tech, 2023–2027)** passionate about building intelligent and impactful software.
+Hi, I'm **Royyala Sindhuja**,a Computer Science Engineering student who enjoys creating new things through technology. I love exploring new ideas, solving problems, and turning them into practical projects.
+
+I'm a quick learner, a good listener, and someone who enjoys communicating and working with others. I believe every project is an opportunity to learn something new and improve my skills.
 
 - 🎓 &nbsp;Pursuing **B.Tech in CSE** (2023–2027)
 - 🌱 &nbsp;Learning **Advanced ML & DSA**
